@@ -27,7 +27,7 @@ To run Chat0 locally, you'll need to follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/senbo1/chat0.git
+   git clone https://github.com/andi-nugroho/chat0space.git
    cd chat0
    ```
 
@@ -47,8 +47,5 @@ To run Chat0 locally, you'll need to follow these steps:
 
 ## 🐛 Issues & Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/senbo1/chat0/issues) on GitHub.
+If you encounter any issues or have questions, please [open an issue](https://github.com/andi-nugroho/chat0space/issues) on GitHub.
 
-## 💰 Buy me a coffee
-
-- [coff.ee/senbo](https://coff.ee/senbo)
